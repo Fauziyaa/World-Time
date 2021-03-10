@@ -10,7 +10,7 @@ import 'package:intl/intl.dart';
     String time; // time in that location
     String flag; // url to an assets Country flags icon
     String url; // location url for api endpoint
-    bool isDayNight;
+    bool isDayNight;	//day night check
 
 
 
